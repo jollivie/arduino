@@ -13,10 +13,11 @@ Pour toute personne sans formation en électronique, mais intéressée de se lan
 
 - les concepts de base (courant alternatif, la résistance, le transistor) à savoir, apprendre à reconnaître un composant et d'acquérir également un aperçu pourquoi vous utilisez ces composants.
 - Un schéma simple, apprendre à eux-mêmes et l'artisanat comprendre ensemble
-- Avec Arduino développer un projet simple
+- Introduction à la programmation C
+- Développement des quelques projets simple avec Arduino Uno
 
 
-Sound good? Let's go!
+Sounds good? Let's go!
 
 Comment nous écrire: jollivietech@gmail.com
 
