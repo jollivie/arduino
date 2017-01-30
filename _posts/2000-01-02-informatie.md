@@ -1,5 +1,5 @@
 ---
-title: "information"
+title: "informations"
 bg: blue
 color: white
 fa-icon: check-square-o
