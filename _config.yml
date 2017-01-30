@@ -7,6 +7,8 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
+baseurl: "/arduino/"
+url:      "http://jollivie.github.io"
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -14,9 +16,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       "Formation Arduino"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "Une formation basic en Programmation C accompagnée d'une application sur Arduino"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
