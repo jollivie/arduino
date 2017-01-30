@@ -5,11 +5,11 @@ color: white
 fa-icon: graduation-cap
 ---
 
-Pourquoi Arduino? 
+# Pourquoi Arduino? 
 
 Dans le passé pour créer un circuit électronique il fallait avoir un graduat en électronique, aujourd’hui grâce aux micros contrôleurs automatiser un processus ne demande plus des connaissances poussées en électronique, avec  juste quelques ligne des codes on est capable de réaliser des processus automatiques complexe, en bref l’Arduino est un outil de prototypage qui vous permet de concevoir plusieurs genre des projets avec ou sans connaissance de l’électronique.
 
-Projets à réalisés au cours de la formation
+# Projets à réalisés au cours de la formation
 
 1. Contrôle des  lampes (LED, RGB LED)
 2. Contrôle d’une lampe sur base de la lumière
