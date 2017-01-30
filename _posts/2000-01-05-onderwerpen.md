@@ -1,14 +1,14 @@
 ---
-title: "Cursus"
+title: "onderwerpen"
 bg: '#63BD2F'
 color: white
 fa-icon: graduation-cap
 ---
 
-Sujets dans ce mini-cours
+onderwerpen in deze mini cursus
 
-- expliquer les concepts de base
-- composants simples (résistances, diodes, condensateurs, tranistor, LED)
+- uitleggen basisbegrippen
+- eenvoudige componenten (weerstanden, diodes, condensator, tranistor, led's )
 
 
 

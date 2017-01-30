@@ -15,11 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "JolliTech Team - Formateurs, consultants"
+title:       "Tom Verbesselt - Lector, consultant"
 keywords:    "blog,lector,cvo antwerpen"
-description: "Une formation sur l'Arduino Uno"
-baseurl:     "/arduino/"
-url:         "http://jollivie.github.io"
+description: ""
 source_link: "https://http://tverbesselt.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
