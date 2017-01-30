@@ -9,15 +9,13 @@ fa-icon: check-square-o
 
 # Une simple introduction à l'électronique.
 
-Pour toute personne sans formation en électronique, mais intéressée de se lancer avec (petits) projets de l'électronique. Un mini-cours de 3 leçons dans lequel vous apprenez:
+Pour toute personne sans formation en électronique, mais intéressée à se lancer dans des (petits) projets de l'électronique. Un mini-cours de quelques leçons dans lequel vous apprendrez:
 
-- les concepts de base (courant alternatif, la résistance, le transistor) à savoir, apprendre à reconnaître un composant et d'acquérir également un aperçu pourquoi vous utilisez ces composants.
-- Un schéma simple, apprendre à eux-mêmes et l'artisanat comprendre ensemble
-- Introduction à la programmation C
-- Développement des quelques projets simple avec Arduino Uno
+- les concepts de base (courant alternatif, la résistance, le transistor) à savoir, apprendre à reconnaître un composant et d'acquérir également un aperçu du pourquoi vous utilisez ces composants.
+- Une introduction à la programmation C
+- Le développement des quelques projets simple avec Arduino Uno
 
 
-Sounds good? Let's go!
+Sounds good?!? Let's go!!!
 
-Comment nous écrire: jollivietech@gmail.com
 
